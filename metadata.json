@@ -1,0 +1,5 @@
+{
+  "name": "Super Artificial Transaction Receipt Generator",
+  "description": "A tool for users to create, customize, and generate artificial transaction receipts. Users can add and edit text fields, then download or print the final receipt. The receipt layout autofits to the content.",
+  "requestFramePermissions": []
+}
