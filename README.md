@@ -2,7 +2,7 @@
 
 A highly customizable tool for creating, editing, and generating artificial transaction receipts. Perfect for mockups, prototypes, or entertainment purposes.
 
-![Screenshot of the Receipt Generator application in use](https://i.imgur.com/example.png) <!-- It's a good practice to add a real screenshot here -->
+![Screenshot of the Receipt Generator application in use]("./sample.png") <!-- It's a good practice to add a real screenshot here -->
 
 ## ✨ Features
 
